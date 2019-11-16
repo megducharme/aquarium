@@ -1,6 +1,9 @@
 @import 'navbar.css';
 
+.fish_tank {
+    display: flex;
+}
 
-#fishtank {}
-.fish {}
-.fish__name {}
+.fish {
+    width: 25%;
+}
