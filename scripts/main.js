@@ -2,10 +2,13 @@
  *  Import the initializeDetailButtonEvents function
  *  reference and then invoke it
  */
-import initializeDetailButtonEvents from './dialogs.js'
+// import initializeDetailButtonEvents from './dialogs.js'
 import { useFish } from './FishDataProvider.js'
+import initializeDetailButtonEvents from './dialogs.js'
 
-initializeDetailButtonEvents()
+
+// initializeDetailButtonEvents()
+FishListComponent()
 
 const allTheFish = useFish()
 
