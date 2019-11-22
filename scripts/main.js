@@ -4,6 +4,7 @@
  */
 // import initializeDetailButtonEvents from './dialogs.js'
 import { useFish } from './FishDataProvider.js'
+import FishListComponent from './FishList.js'
 import initializeDetailButtonEvents from './dialogs.js'
 
 
